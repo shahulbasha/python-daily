@@ -45,7 +45,10 @@ Keep it to the 3–6 most valuable points. Never rewrite the whole solution for 
 - Rewrite **Next focus** (1–3 bullets).
 
 ## 4. Add today's exercise
-Skip this if 2 or more earlier exercises are still unsolved (learner is behind).
+**Pending cap: at most 5 unsolved exercises at any time.** Count day folders whose
+`solution.py` still has `NotImplementedError` stubs (after this run's reviews). If that count
+is 5 or more, add nothing today — the learner batches work (e.g. several days on Friday), so
+just leave the existing ones to finish. Never add more than one exercise per run.
 Otherwise create `days/dayNNN_<slug>/` (next number) with `__init__.py`, `README.md`,
 `solution.py`, `test_solution.py`, following the weekly rotation in `README.md` and steering
 toward **Recurring mistakes** / **Next focus**. Never repeat a topic already in the table.

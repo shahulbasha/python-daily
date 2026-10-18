@@ -33,5 +33,6 @@ focuses on whether it's idiomatic, not whether it works.
 | Fri | AI engineering | asyncio, Pydantic, httpx, retries/backoff, streaming, LLM client & tool patterns |
 | Sat, Sun | Weekend build | slightly longer (30–40 min) mini-build combining the week's topics |
 
-Skipped a day? Just push when you can — the reviewer reviews whatever is unreviewed and only adds
-a new exercise when you're not more than 2 exercises behind.
+Busy days are fine — solve two at once, or a whole week on Friday. The reviewer reviews whatever
+is unreviewed, adds at most one exercise per morning, and stops adding once **5 are pending**
+until you catch up.
