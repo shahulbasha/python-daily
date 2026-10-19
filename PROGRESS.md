@@ -13,6 +13,7 @@ engineering work. Skip syntax basics. Watch especially for Java habits carried i
 | Day | Date | Track | Topic | Result |
 |-----|------|-------|-------|--------|
 | 001 | 2026-10-19 | Idiomatic core | Data model: dataclasses, dunders, `sum()` on custom types | pending |
+| 002 | 2026-10-19 | Idiomatic core | Generators: lazy Kafka-style pipeline, `itertools`, eager validation | pending |
 
 ## Next focus
 <!-- Reviewer: 1–3 bullets on what the next exercises should target, based on reviews. -->
